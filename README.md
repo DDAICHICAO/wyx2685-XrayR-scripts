@@ -1,22 +1,18 @@
 # XRayR
 A Xray backend framework that can easily support many panels.
 
-一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
-
+涓€涓熀浜嶺ray鐨勫悗绔鏋讹紝鏀寔V2ay,Trojan,Shadowsocks鍗忚锛屾瀬鏄撴墿灞曪紝鏀寔澶氶潰鏉垮鎺?
 Find the source code here: [XrayR-project/XrayR](https://github.com/XrayR-project/XrayR)
 
-# 详细使用教程
+# 璇︾粏浣跨敤鏁欑▼
 
-[教程](https://xrayr-project.github.io/XrayR-doc/)
+[鏁欑▼](https://xrayr-project.github.io/XrayR-doc/)
 
-# 一键安装
-
+# 涓€閿畨瑁?
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/DDAICHICAO/wyx2685-XrayR-scripts/refs/heads/master/install.sh)
 ```
-# Docker 安装
 
-暂不支持
+# Docker 瀹夎
 
-🌈 **欢迎加入我的频道 → [@jichangbiji](https://t.me/jichangbiji)**  
-每天分享最新的机场资讯与工具教程 💡
+鏆備笉鏀寔
